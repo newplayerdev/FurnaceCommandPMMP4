@@ -1,0 +1,10 @@
+name: FurnaceCommand
+main: NewPlayerMC\Main
+api: 4.0.0
+version: 1.0.0
+author: NewPlayerMC
+
+permissions:
+  furnace.use:
+    default: op
+    description: Allow to /furnace
