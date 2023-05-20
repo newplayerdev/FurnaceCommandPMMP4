@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/newplayerdev/FurnaceCommandPMMP4
+build-by-default: true
+branches:
+- main
+projects:
+  FurnaceCommandPMMP4:
+    path: ""
+...
