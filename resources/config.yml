@@ -11,4 +11,9 @@ furnace_all_message: "All your items have been furnaced"
 
 item_not_furnacable: "You cannot furnace this item"
 
+# Cooldown in seconds
+cooldown: 10
+
+cooldown-message: "§cYou are currently in cooldown, please wait {cooldown} seconds"
+
 ...
