@@ -14,6 +14,7 @@ item_not_furnacable: "You cannot furnace this item"
 # Cooldown in seconds
 cooldown: 10
 
+# Cooldown message
 cooldown-message: "§cYou are currently in cooldown, please wait {cooldown} seconds"
 
 ...
